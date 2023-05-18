@@ -5,7 +5,15 @@
   "repository": "https://github.com/marciocarolino/valoriza.git",
   "author": "Marcio Carolino <marciocarolino@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "ts-node-dev src/server.ts"
+  },
   "devDependencies": {
+    "@types/express": "^4.17.17",
+    "ts-node-dev": "^2.0.0",
     "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
   }
 }
