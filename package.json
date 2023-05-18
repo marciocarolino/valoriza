@@ -1,0 +1,11 @@
+{
+  "name": "valoriza",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/marciocarolino/valoriza.git",
+  "author": "Marcio Carolino <marciocarolino@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
